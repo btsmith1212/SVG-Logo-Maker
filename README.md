@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a customer logo maker that utilizes inquirer for prompts to define their logo, then this is written to an SVG file that generates a logo.
+This is a custom logo maker that utilizes inquirer for prompts to define their logo, then this is written to an SVG file that generates a logo.
 
 ## Installation
 
