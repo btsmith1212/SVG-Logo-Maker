@@ -27,4 +27,4 @@ https://github.com/btsmith1212/SVG-Logo-Maker.git
 
 ## Screencastify Link
 
-https://drive.google.com/file/d/1k_UBnRzc33qkdnbavmFJQiXhDrz7Ozne/view
+https://drive.google.com/file/d/1LWwPZISLPn7mGr4asGupTaysTaTEPutN/view
