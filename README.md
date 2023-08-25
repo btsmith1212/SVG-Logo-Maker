@@ -24,3 +24,7 @@ Please refer to the LICENSE in the repo.
 ## Code Sources
 
 https://github.com/btsmith1212/SVG-Logo-Maker.git
+
+## Screencastify Link
+
+https://drive.google.com/file/d/1k_UBnRzc33qkdnbavmFJQiXhDrz7Ozne/view
